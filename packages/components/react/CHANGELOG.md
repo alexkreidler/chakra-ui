@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.4.4
+
+### Patch Changes
+
+- Updated dependencies
+  [[`40779c6b1`](https://github.com/chakra-ui/chakra-ui/commit/40779c6b1195bf208f7be20d838ea5f22716231b)]:
+  - @chakra-ui/slider@2.0.16
+  - @chakra-ui/theme@2.2.2
+
 ## 2.4.3
 
 ### Patch Changes
